@@ -33,7 +33,7 @@ intelligence report.
 | `shopnest_syslog.log` | Ubuntu server | SSH, sudo, cron, DNS (dnsmasq), user/group changes, fail2ban bans |
 | `shopnest_firewall.log` | UFW firewall | Inbound accepts & blocks, outbound connections |
 
-The **answer key is intentionally not included** — it is held by the instructor.
+The **answer key is intentionally not included** — it is held by the instructor GCN.
 
 ---
 
