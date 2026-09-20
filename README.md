@@ -85,16 +85,6 @@ grep 'OUT=eth0' shopnest_firewall.log | grep -oE 'DST=[0-9.]+' | sort | uniq -c
 
 ---
 
-## Notes for instructors
-
-- Full analysis, kill-chain timeline, IOC table, and answer key are distributed separately
-  (not committed to this repository) so that students cannot be spoiled.
-- The generator used to produce the logs is also kept out of the repo for the same reason.
-- Roughly **2–4 hours** of classroom time covers the full worksheet; Parts 1–2 can be
-  trimmed for a shorter lab.
-
----
-
 ## Disclaimer & license
 
 This is synthetic data created for training. All trademarks belong to their owners.
